@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Karim and Marwa's Wedding\nDate and Time - Aug 1\, 2023 9:00 PM to 11:55 PM\nVenue - Beirut\, Lebanon\nKarim and Marwa's Wedding\n
+DTSTART:20230801T190000Z
+DTEND:20230801T215500Z
+LOCATION:Beirut, Lebanon
+SUMMARY;LANGUAGE=en-us:Karim and Marwa's Wedding
+END:VEVENT
+END:VCALENDAR
